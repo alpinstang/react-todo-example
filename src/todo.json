@@ -1,0 +1,12 @@
+{
+  "todoList": {
+    "title": "Example List",
+    "entries": [
+      {
+        "key": "0001",
+        "text": "Item 1",
+        "description": "A simple description"
+      }
+    ]
+  }
+}
